@@ -10,5 +10,6 @@
 - 羁绊系统：每个英雄都具有两个羁绊，一个称为种族羁绊，另一个称为职业羁绊，当同一队伍中出现同样的羁绊时，会触发特殊的效果。
 ## 截图
 ![](https://github.com/Flamingo6947/The-Battle-of-Valoran/blob/main/bov_pic_1.png)
+
 ![](https://github.com/Flamingo6947/The-Battle-of-Valoran/blob/main/bov_pic_2.png)
  
